@@ -1,0 +1,33 @@
+--- 
+title: "Статистика асослари"
+author: "Ханнаев Шерзод"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+
+# Статистика фанига кириш {-}
+
+
+<!--chapter:end:index.Rmd-->
+
+# Маълумотларни тасвирлаш {-}
+
+
+<!--chapter:end:02-tears.Rmd-->
+
+# Эҳтимоллар назарияси {-}
+
+<!--chapter:end:03-race.Rmd-->
+
+# Дискрет тасодифий ўзгарувчилар {-}
+
+<!--chapter:end:04-discret.Rmd-->
+
+# Узлуксиз тасодифий ўзгарувчилар {-}
+
+<!--chapter:end:05-continuous.Rmd-->
+
+# Танланма статистиклари тақсимоти {-}
+
+<!--chapter:end:06-distofsamstat.Rmd-->
+
